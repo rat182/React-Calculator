@@ -1,0 +1,11 @@
+.clear {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    outline: 1px solid black;
+    background-color: royalblue;
+    color: white;
+}
